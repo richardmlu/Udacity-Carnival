@@ -1,2 +1,0 @@
-# Udacity-Carnival
-VR Nanodegree
